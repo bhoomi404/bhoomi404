@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**bhoomi404/bhoomi404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# BHOOMI KOKATE
 
-Here are some ideas to get you started:
+### ELECTRONICS ENGINEER • EMBEDDED SOFTWARE • SYSTEMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0a2733,100:00d9ff&height=120&section=header&text=SYSTEM%20ONLINE&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+
+</div>
+
+---
+
+## ⚡ CURRENT OPERATIONS
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   STATUS          ● ONLINE                           │
+│   DOMAIN          EMBEDDED SYSTEMS                   │
+│   FOCUS           HARDWARE × SOFTWARE                │
+│   ENVIRONMENT     LINUX                              │
+│                                                      │
+└──────────────────────────────────────────────────────┘
