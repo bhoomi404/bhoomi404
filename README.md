@@ -2,22 +2,24 @@
 
 # BHOOMI KOKATE
 
-### ELECTRONICS ENGINEER • EMBEDDED SOFTWARE • SYSTEMS
+### ELECTRONICS ENGINEER // EMBEDDED SYSTEMS
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0a2733,100:00d9ff&height=120&section=header&text=SYSTEM%20ONLINE&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:071a24,100:00b8d4&height=140&section=header&text=SYSTEM%20ONLINE&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+
+`ENGINEERING INTERFACE // v1.0`
 
 </div>
 
 ---
 
-## ⚡ CURRENT OPERATIONS
+## `01 // SYSTEM STATUS`
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   STATUS          ● ONLINE                           │
-│   DOMAIN          EMBEDDED SYSTEMS                   │
-│   FOCUS           HARDWARE × SOFTWARE                │
-│   ENVIRONMENT     LINUX                              │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  SYSTEM STATUS       ● ONLINE                               │
+│  PRIMARY DOMAIN      EMBEDDED SYSTEMS                       │
+│  SECONDARY DOMAIN    SYSTEMS / SOFTWARE                     │
+│  DEVELOPMENT         ACTIVE                                 │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
